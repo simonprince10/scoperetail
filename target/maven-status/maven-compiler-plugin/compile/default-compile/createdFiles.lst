@@ -1,0 +1,8 @@
+com\example\scoperetail\mapper\ModelMapperImpl.class
+com\example\scoperetail\service\QuikpakService.class
+com\example\scoperetail\dto\QuikpakDto.class
+com\example\scoperetail\mapper\ModelMapper.class
+com\example\scoperetail\repository\QuikpakRepo.class
+com\example\scoperetail\controller\QuikpakController.class
+com\example\scoperetail\entity\Quikpak.class
+com\example\scoperetail\ScoperetailApplication.class
